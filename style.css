@@ -1,0 +1,74 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  
+}
+
+h0 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: bold;
+  font-size: 40px;
+  color: #424242;
+  text-align: center;
+  padding: 40px;
+  
+}
+
+h2{
+  font-style:
+    color:
+}
+
+h3{
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+.navi{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  
+}
+
+
+a:link {
+  color: #5F6368;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #5F6368;
+}
+
+a:hover {
+  color: #5F6368;
+  text-decoration: underline;
+}
+
+
+a:active {
+  color: #5F6368;
+  text-decoration: underline;
+}
+
+
+.flower{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 10px;
+  postition: fixed;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10px;
+  postition: absolute;
+  text-align: center;
+}
