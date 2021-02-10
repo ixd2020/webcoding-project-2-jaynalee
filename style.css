@@ -25,7 +25,7 @@ h3{
 }
 
 h4{
-  font-weight: 400;
+  font-weight: 600;
   font-size:  20px;
   margin: 0;
   padding: 0;
@@ -110,6 +110,11 @@ a:active {
   margin-left:  250px;
 }
 
+.searchicon{
+  float: right;
+  margin-right: 150px;
+}
+
 .logo2{
   float: left;
   margin-left: 130px;
@@ -143,12 +148,6 @@ a:active {
   margin-left: 150px;
 }
 
-
-.rheader{
-  margin-left: 150px;
-  padding-top: 150px;
-  width: 50%;
-}
 
 .hometext{
 }
@@ -213,3 +212,44 @@ br {
   width: 47%;
 }
 
+.rheader{
+  margin-left: 150px;
+  padding-top: 140px;
+  padding-bottom: 80px;
+  width: 50%;
+}
+
+.resources{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.r1{
+  width: 100%;
+  display: inline-block;
+  padding-bottom: 50px;
+}
+
+.r2{
+    width: 100%;
+  display: inline-block;
+  padding-bottom: 100px;
+}
+
+.rleft{
+  float: left;
+  width: 28%;
+  margin-right: 20px;
+}
+
+.rright{
+  float: right;
+  width: 65%;
+    margin: 0 auto;
+  padding: 0 auto;
+}
+
+.rpic{
+  margin: 0 auto;
+  padding: 0 auto;
+}
