@@ -322,7 +322,48 @@ br {
 
 .column1:hover{
   box-shadow: 0 0.3vw 0.6vw 0 lightgray;
+}
   
-  .sixthsect{
-    margin-bottom: 100px;
+  .forthsect{
+    padding-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 1800px;
   }
+  
+  .left2{
+    float: left;
+    width: 47%;
+  }
+
+.right2{
+    float: right;
+    width: 47%;
+  }
+
+.fifthsect{
+    padding-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 500px;
+}
+
+.lcolumn1{
+  width: 30%;
+  float: left;
+  padding: 30px;
+}
+
+.lcolumn2{
+  width: 30%;
+  float: left;
+  padding: 30px;
+}
+
+.lcolumn1:hover{
+  box-shadow: 0 0.3vw 0.6vw 0 lightgray;
+}
+
+.lcolumn2:hover{
+  box-shadow: 0 0.3vw 0.6vw 0 lightgray;
+}
