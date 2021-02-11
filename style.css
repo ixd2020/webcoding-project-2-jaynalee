@@ -294,6 +294,7 @@ br {
   margin-left: 90px;
   margin-right: 150px;
   height: 700px;
+  margin-bottom: 50px;
 }
 
 .row{
@@ -321,3 +322,7 @@ br {
 
 .column1:hover{
   box-shadow: 0 0.3vw 0.6vw 0 lightgray;
+  
+  .sixthsect{
+    margin-bottom: 100px;
+  }
